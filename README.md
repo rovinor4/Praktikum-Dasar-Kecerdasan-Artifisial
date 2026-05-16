@@ -17,10 +17,10 @@ Universitas : Telkom University
 
 # Hasil Praktikum
 
-| Modul   | Materi                   | Folder                                                                            |
-|---------|--------------------------|-----------------------------------------------------------------------------------|
-| Modul 6 | DFS (DEPTH-FIRST SEARCH) | [Buka](./Tugas%20Mandiri%20-%20Modul%206%20DFS/README.md)                         |
-| Modul 8 | Algoritma Hill Climbing  | [Buka](./Tugas%20Mandiri%20-%20Modul%208%20Algoritma%20Hill%20Climbing/README.md) |
+| Modul   | Materi                   | Folder                                                                  |
+|---------|--------------------------|-------------------------------------------------------------------------|
+| Modul 6 | DFS (DEPTH-FIRST SEARCH) | [Buka](./Tugas%20Mandiri%20-%20Modul%206%20DFS)                         |
+| Modul 8 | Algoritma Hill Climbing  | [Buka](./Tugas%20Mandiri%20-%20Modul%208%20Algoritma%20Hill%20Climbing) |
 
 # Tujuan Repository
 
