@@ -13,8 +13,6 @@ NIM : 103072400031
 Program Studi : S1 Informatika  
 Universitas : Telkom University
 
----
-
 # Hasil Praktikum
 
 | Modul   | Materi                   | Folder                                                                            |
@@ -22,16 +20,12 @@ Universitas : Telkom University
 | Modul 6 | DFS (DEPTH-FIRST SEARCH) | [Buka](./Tugas%20Mandiri%20-%20Modul%206%20DFS/README.md)                         |
 | Modul 8 | Algoritma Hill Climbing  | [Buka](./Tugas%20Mandiri%20-%20Modul%208%20Algoritma%20Hill%20Climbing/README.md) |
 
----
-
 # Tujuan Repository
 
 1. Menyimpan hasil praktikum selama perkuliahan.åß
 2. Mendokumentasikan implementasi materi Artificial Intelligence.
 3. Menjadi referensi pembelajaran dan pengembangan project AI.
 4. Mempermudah pengelolaan tugas dan praktikum per modul.
-
----
 
 # Referensi
 
@@ -41,8 +35,6 @@ Universitas : Telkom University
 3. Dokumentasi NumPy - [https://numpy.org/](https://numpy.org/)
 4. Dokumentasi Pandas - [https://pandas.pydata.org/](https://pandas.pydata.org/)
 5. Dokumentasi Scikit-Learn - [https://scikit-learn.org/](https://scikit-learn.org/)
-
----
 
 # Catatan
 
