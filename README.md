@@ -1,3 +1,5 @@
+![Dasar Kecerdasan Artificial Intelligence](./banner.png)
+
 # Dasar Kecerdasan Artificial Intelligence
 
 Repository ini berisi kumpulan hasil praktikum mata kuliah **Dasar Kecerdasan Artificial Intelligence** yang dikerjakan
@@ -22,7 +24,7 @@ Universitas : Telkom University
 
 # Tujuan Repository
 
-1. Menyimpan hasil praktikum selama perkuliahan.åß
+1. Menyimpan hasil praktikum selama perkuliahan.
 2. Mendokumentasikan implementasi materi Artificial Intelligence.
 3. Menjadi referensi pembelajaran dan pengembangan project AI.
 4. Mempermudah pengelolaan tugas dan praktikum per modul.
