@@ -3,6 +3,13 @@
 Repository ini berisi pengerjaan soal mandiri Fuzzy Logic menggunakan Python. Setiap soal dibuat dalam bentuk notebook
 dan mengikuti ketentuan pada modul penugasan, mulai dari fuzzifikasi, evaluasi aturan, sampai defuzzifikasi.
 
+## Informasi Mahasiswa
+
+Nama : Rovino Ramadhani  
+NIM : 103072400031  
+Program Studi : S1 Informatika  
+Universitas : Telkom University
+
 ## Daftar Soal
 
 | No | Judul Soal                        | Metode                           | File Notebook |
