@@ -17,10 +17,12 @@ Universitas : Telkom University
 
 # Hasil Praktikum
 
-| Modul   | Materi                   | Folder                                                                  |
-|---------|--------------------------|-------------------------------------------------------------------------|
-| Modul 6 | DFS (DEPTH-FIRST SEARCH) | [Buka](./Tugas%20Mandiri%20-%20Modul%206%20DFS)                         |
-| Modul 8 | Algoritma Hill Climbing  | [Buka](./Tugas%20Mandiri%20-%20Modul%208%20Algoritma%20Hill%20Climbing) |
+| Modul           | Materi                   | Folder                                                                  |
+|-----------------|--------------------------|-------------------------------------------------------------------------|
+| Modul 6         | DFS (DEPTH-FIRST SEARCH) | [Buka](./Tugas%20Mandiri%20-%20Modul%206%20DFS)                         |
+| Modul 8         | Algoritma Hill Climbing  | [Buka](./Tugas%20Mandiri%20-%20Modul%208%20Algoritma%20Hill%20Climbing) |
+| Modul 13        | Fuzzy Logic              | [Buka](./Tugas%20Mandiri%20-%20Modul%2013%20FUZZY%20LOGIC)              |
+| Ujian Praktikum | Keseluruhan Materi       | [Buka](./Ujian%20Praktikum)                                             |
 
 # Tujuan Repository
 
